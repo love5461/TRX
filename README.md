@@ -2,7 +2,9 @@
 The trc20 network uses 13.5-27 energy leasing at a time, which only requires 7trx or 2u, saving 50%-80% of mining fees.
 
 🔋Transfer 10 U = 5 transfers
+
 🔸Transfer 20 U = 10 transfers
+
 🔸Transfer 50 U = 25 transfers
 🔸Transfer 100 U = 50 transfers
 🔸Transfer 200 U = 100 transfers
